@@ -1,0 +1,63 @@
+[
+ 
+  {
+    "name": "SkillSwap",
+    "desc": "A platform for users to exchange skills and collaborate.",
+    "image": "skillswap",
+    "category": "Web Application",
+    "links": {
+      "view": "https://skill-swap-frontend-ten.vercel.app/",
+      "code": "https://github.com/Vinay828/SkillSwap"
+    }
+  },
+  {
+    "name": "Time Series Stock Prediction",
+    "desc": "A data forecasting system using time series analysis and machine learning.",
+    "image": "stock",
+    "category": "Machine Learning",
+    "links": {
+      "view": "https://github.com/Vinay828",
+      "code": "https://github.com/Vinay828/Data-Forecasting-using-Time-Series-Analysis."
+    }
+  },
+  {
+    "name": "Sales Savvy",
+    "desc": "Sales Savvy is a full-stack e-commerce platform for managing products, customers, and orders with secure backend support.",
+    "image": "ecommerce",
+    "category": "Full Stack Application",
+    "links": {
+      "view": "https://github.com/Vinay828",
+      "code": "https://github.com/Vinay828/SalesSavvy-FrontEnd"
+    }
+  },
+  {
+    "name": "Solar-Based FastTag Charger for Electric Vehicle",
+    "desc": "A solar-powered FastTag-enabled charging system for electric vehicles, integrating renewable energy with automated digital payment technology.",
+    "image": "ev",
+    "category": "Hardware",
+    "links": {
+      "view": "https://github.com/Vinay828",
+      "code": "https://github.com/Vinay828"
+    }
+  },
+  {
+    "name": "Portfolio",
+    "desc": "It serves as a digital resume, providing a professional online presence and a platform to display projects and accomplishments",
+    "image": "portfolio",
+    "category": "Website",
+    "links": {
+      "view": "https://github.com/Vinay828",
+      "code": "https://github.com/Vinay828"
+    }
+  },
+  {
+    "name": "JourneyJot",
+    "desc": "A digital travel diary to record and revisit visited places and memories.",
+    "image": "travel",
+    "category": "Web Application",
+    "links": {
+      "view": "https://github.com/Vinay828",
+      "code": "https://github.com/Vinay828/JournryJot"
+    }
+  }
+]
